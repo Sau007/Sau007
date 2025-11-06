@@ -3,7 +3,13 @@
 ### ⚔️ Security Researcher | Pentester | Breaking AI to Build It Stronger
 
 # 💫 About Me:
-🔭 I'm currently working on researching security across AI, cloud, Android, and web — bridging ML with offensive & defensive security, and planning future tools to automate parts of that research.<br>🌱 I'm currently learning advanced AI security, web & Android pentesting, and cloud attack surfaces — focusing on integrating ML into real-world vulnerability research.<br>👯 I'm looking to collaborate on adversarial AI research, automation tools, and real-world pentesting frameworks integrating ML and security testing.<br>🤝 I'm looking for help with advanced AI security concepts, automation in pentesting, and scaling ML models for security research.<br>💬 Ask me about cybersecurity research, AI-driven pentesting, Android security, and building smarter defenses with machine learning.<br>📫 How to reach me saurabhdombe29@gmail.com<br>⚡ Fun fact I treat every bug like a puzzle and every system like a story — curiosity is my permanent operating mode.
+🔭 I'm currently researching security across AI, Cloud, Android, and Web — bridging Machine Learning with both offensive and defensive security, while designing tools to automate parts of that research.<br>
+🌱 I'm deepening my expertise in AI security, advanced Web & Android pentesting, and Cloud attack surfaces — focusing on applying ML to real-world vulnerability discovery and exploitation.<br>
+👯 I'm open to collaborations on Adversarial AI, automated pentesting frameworks, and next-generation security tools that integrate ML-driven analysis and decision-making.<br>
+🤝 I'm seeking discussions and mentorship around advanced AI security concepts, pentest automation, and scaling ML models for real-time security assessment and threat detection.<br>
+💬 Ask me about cybersecurity research, AI-driven pentesting, Android exploitation, Cloud security, or building intelligent defense mechanisms using Machine Learning.<br>
+📫 How to reach me: **saurabhdombe29@gmail.com**<br>
+⚡ Fun fact: I treat every bug like a puzzle and every system like a story — curiosity is my permanent operating mode.
 
 
 ## 🌐 Socials:
