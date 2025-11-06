@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saurabh Dombe
 
-### ⚔️ Security Researcher | Pentester | Breaking AI to Build It Stronger
+### ⚔️ Security Researcher | Pentester | Breaking Systems to Build It Stronger
 
 # 💫 About Me:
 🔭 I'm currently researching security across AI, Cloud, Android, and Web — bridging Machine Learning with both offensive and defensive security, while designing tools to automate parts of that research.<br>
